@@ -1,0 +1,24 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/2020.3.15f2/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker64
+-projectPath
+/Users/ngocanhnguyen/Documents/GitHub/Data-Persistance-Project
+-logFile
+Logs/AssetImportWorker64.log
+-srvPort
+49454
+Successfully changed project path to: /Users/ngocanhnguyen/Documents/GitHub/Data-Persistance-Project
+/Users/ngocanhnguyen/Documents/GitHub/Data-Persistance-Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 339.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.15f2 (6cf78cb77498)
+[Subsystems] Discovering subsystems at path /Applications/Unity/2020.3.15f2/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ngocanhnguyen/Documents/GitHub/Data-Persistance-Project/Assets
+GfxDevice: creating device client; threaded=0
